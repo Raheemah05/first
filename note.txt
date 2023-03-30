@@ -1,0 +1,39 @@
+<h1 class="bg-secondary border border-primary mt-5 w-25 position-relative start-50">welcome to bootstrap</h1>
+    
+    <button class="position-sticky top-0 ">click</button>
+     
+
+    <a href="">home</a>
+
+    <p class="display-1 fst-italic d-inline">display text.</p>
+
+
+
+
+    <nav class="d-flex justify-content-between">
+        <a href="">Logo</a>
+
+        <ul>
+            <li>Home</li>
+            <li>ABout</li>
+        </ul>
+    </nav>
+
+    <div class=" container-fluid"> 
+        <div class="row">
+            <div class="col-12 col-md-4 bg-danger">1</div>
+            <div class="col-12 col-md-4 bg-success">2</div>
+            <div class="col-12 col-md-4 bg-warning">3</div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+           <div class="col-12 col-md-4"><img src="./images/advert4.jpg" alt=""></div>
+           <div class="col-12 col-md-4"><img src="./images/advert5.jpg" alt=""></div>
+           <div class="col-12 col-md-4"><img src="./images/emilokan.jpg" alt=""></div>
+        </div>
+    </div>
+
+
